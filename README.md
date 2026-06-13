@@ -1,275 +1,322 @@
+<!-- ====================================================== -->
+<!--                  HEADER / BANNER                       -->
+<!-- ====================================================== -->
+
+<a href="https://github.com/raomuzamil480">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Rao%20Muzamil&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Django&descAlignY=58&descSize=20" alt="header banner" />
+</a>
+
+<!-- ====================================================== -->
+<!--                  TYPING ANIMATION                      -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rao%20Muzamil&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Django&descAlignY=55&descSize=20" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Rao+Muzamil;Full+Stack+Developer+%F0%9F%9A%80;React+Developer+%E2%9A%9B%EF%B8%8F;Django+Developer+%F0%9F%90%8D;Open+Source+Enthusiast+%F0%9F%92%9C)](https://git.io/typing-svg)
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=👋+Hi%2C+I'm+Rao+Muzamil!;🚀+Full+Stack+Developer;⚛️+React+Developer;🐍+Django+Developer;🌐+SaaS+Builder;💡+Open+Source+Enthusiast" alt="Typing SVG" />
+<!-- VISITOR COUNTER + FOLLOW -->
+<img src="https://komarev.com/ghpvc/?username=raomuzamil480&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="profile views" />
+<a href="https://github.com/raomuzamil480?tab=followers">
+  <img src="https://img.shields.io/github/followers/raomuzamil480?label=Followers&style=for-the-badge&color=06B6D4" alt="followers" />
 </a>
-
-<br/>
-
-<!-- VISITOR BADGE -->
-<img src="https://komarev.com/ghpvc/?username=raomuzamil480&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/raomuzamil480?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-6C63FF?style=for-the-badge&labelColor=1a1a2e" alt="Focus"/>
 
 </div>
 
 ---
 
+<!-- ====================================================== -->
+<!--                     ABOUT ME                           -->
+<!-- ====================================================== -->
+
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```yaml
-Name       : Rao Muzamil
-Username   : raomuzamil480
-Location   : Pakistan 🇵🇰
-Role       : Full Stack Developer
-Focus      : React · Django · SaaS · APIs
+```python
+class RaoMuzamil:
+    def __init__(self):
+        self.name = "Rao Muzamil"
+        self.role = "Full Stack Developer"
+        self.location = "Pakistan 🇵🇰"
+        self.stack = ["React", "Django", "DRF", "PostgreSQL"]
+        self.focus = ["SaaS", "APIs", "Scalable Web Apps"]
+        self.mindset = "Continuous Learning + Problem Solving"
 ```
 
-- 🔭 **Building** scalable web apps, SaaS products & digital experiences
-- 💻 **Crafting** full-stack solutions with **React** & **Django**
-- 🌱 **Learning** System Design, DSA, PostgreSQL Optimization
-- 🛠️ **Exploring** cloud architecture & advanced backend patterns
-- 🤝 **Open to** collaborations, freelance & open-source contributions
-- ⚡ **Fun fact:** I turn ☕ coffee into clean, scalable code!
+- 🚀 Passionate **Software Developer** building **scalable web applications**
+- 🧩 Specialized in **Full Stack Development** — Frontend & Backend
+- ☁️ Building **SaaS Products** & robust **REST APIs**
+- 🎨 Crafting modern, responsive **Frontend** experiences
+- 🛠️ Designing reliable, secure **Backend** systems
+- 📚 **Continuous Learning** & sharpening **DSA** skills daily
+- 🧠 Love **Problem Solving** and clean architecture
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Tech Stack
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 🎨 Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄️ Database
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools & DevOps
-
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧠 Computer Science
-
-![DSA](https://img.shields.io/badge/Data_Structures-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raomuzamil480&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies" width="100%"/>
+![Data Structures](https://img.shields.io/badge/Data_Structures-6366F1?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
 ---
+
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Content Generator SaaS
+> A subscription-based platform that generates blogs, ads & social copy using AI, with usage limits and billing.
+
+**Tech:** `React` `Django` `DRF` `PostgreSQL`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raomuzamil480)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ Multi Vendor E-Commerce
+> Marketplace where multiple vendors manage stores, products, orders, and payouts from a unified dashboard.
+
+**Tech:** `React` `Tailwind` `Django` `PostgreSQL`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raomuzamil480)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+> Manage students, courses, attendance & grades with role-based access for admins and teachers.
+
+**Tech:** `Django` `DRF` `PostgreSQL`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raomuzamil480)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📝 Modern Blog Platform
+> Full-featured blogging app with rich text editor, comments, tags, and SEO-friendly pages.
+
+**Tech:** `React` `Django` `DRF`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raomuzamil480)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 Job Search Platform
+> Connects job seekers and recruiters with smart filters, applications tracking, and saved jobs.
+
+**Tech:** `React` `Tailwind` `Django` `PostgreSQL`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raomuzamil480)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Project Management System
+> Team collaboration tool with boards, tasks, deadlines, and progress tracking dashboards.
+
+**Tech:** `React` `Django` `DRF` `PostgreSQL`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raomuzamil480)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ====================================================== -->
+<!--                    GITHUB STATS                        -->
+<!-- ====================================================== -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raomuzamil480&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raomuzamil480&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raomuzamil480&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=06B6D4" alt="github stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raomuzamil480&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="top languages" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raomuzamil480&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=raomuzamil480&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" alt="WakaTime Stats"/>
+<img src="https://streak-stats.demolab.com?user=raomuzamil480&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" alt="github streak" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+<!-- ====================================================== -->
+<!--                  ACTIVITY GRAPH                        -->
+<!-- ====================================================== -->
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raomuzamil480&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF" width="100%" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raomuzamil480&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=06B6D4&point=ffffff" alt="activity graph" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+<!-- ====================================================== -->
+<!--                   ACHIEVEMENTS                         -->
+<!-- ====================================================== -->
+
+## 🏅 Achievements
 
 <div align="center">
+
+![Full Stack Developer](https://img.shields.io/badge/🚀_Full_Stack_Developer-6366F1?style=for-the-badge)
+![SaaS Builder](https://img.shields.io/badge/☁️_SaaS_Builder-06B6D4?style=for-the-badge)
+![React Developer](https://img.shields.io/badge/⚛️_React_Developer-61DAFB?style=for-the-badge&logoColor=black)
+<br/>
+![Django Developer](https://img.shields.io/badge/🐍_Django_Developer-092E20?style=for-the-badge)
+![DSA Learner](https://img.shields.io/badge/🧠_DSA_Learner-F59E0B?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/💜_Open_Source_Enthusiast-8B5CF6?style=for-the-badge)
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                     TROPHIES                           -->
+<!-- ====================================================== -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=raomuzamil480&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--          CURRENT FOCUS + ROADMAP (2 cols)              -->
+<!-- ====================================================== -->
+
+## 🎯 Current Focus & Roadmap
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 AI Content Generator SaaS
-A full-stack SaaS platform powered by AI to generate high-quality content — blog posts, marketing copy, and social captions at scale.
+<td width="50%" valign="top">
 
-**Tech:** `React` `Django` `DRF` `PostgreSQL` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/raomuzamil480)
-[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel)](https://github.com/raomuzamil480)
-
-</td>
-<td width="50%">
-
-### 🛒 Multi-Vendor E-Commerce Platform
-A robust multi-vendor marketplace with vendor dashboards, order management, payments integration, and real-time inventory tracking.
-
-**Tech:** `React` `Django` `DRF` `PostgreSQL` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/raomuzamil480)
-[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel)](https://github.com/raomuzamil480)
+### 🌱 Currently Learning
+- ⚛️ Advanced React
+- 🐍 Advanced Django
+- 🗄️ PostgreSQL Optimization
+- 🏗️ System Design
+- 🧠 Data Structures & Algorithms
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🎓 Student Management System
-A comprehensive school management system with attendance tracking, grade management, parent portal, and admin dashboard.
+<td width="50%" valign="top">
 
-**Tech:** `React` `Django` `DRF` `PostgreSQL` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/raomuzamil480)
-[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel)](https://github.com/raomuzamil480)
-
-</td>
-<td width="50%">
-
-### 📝 Modern Blog Platform
-A feature-rich blogging platform with markdown support, categories, tags, SEO optimization, and an author analytics dashboard.
-
-**Tech:** `React` `Django` `DRF` `PostgreSQL` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/raomuzamil480)
-[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel)](https://github.com/raomuzamil480)
+### 🗺️ Career Roadmap
+| Stage | Status |
+|-------|:------:|
+| Frontend | ✅ |
+| Backend | ✅ |
+| Database | ✅ |
+| Full Stack | ✅ |
+| System Design | 🔄 |
+| Cloud | 🔄 |
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 💼 Job Search Platform
-A job board platform connecting employers and candidates with smart filtering, resume uploads, application tracking, and email notifications.
-
-**Tech:** `React` `Django` `DRF` `PostgreSQL` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/raomuzamil480)
-[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel)](https://github.com/raomuzamil480)
-
-</td>
-<td width="50%">
-
-### 📋 Project Management System
-A Trello-inspired PM tool with task boards, team collaboration, deadline tracking, role-based access, and progress analytics.
-
-**Tech:** `React` `Django` `DRF` `PostgreSQL` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/raomuzamil480)
-[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel)](https://github.com/raomuzamil480)
-
-</td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🏅 Achievements & Badges
+<!-- ====================================================== -->
+<!--                     CONTACT                            -->
+<!-- ====================================================== -->
+
+## 📬 Let's Connect
 
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/🧱_Full_Stack_Developer-ACHIEVED-success?style=for-the-badge&labelColor=1a1a2e)
-![SaaS Builder](https://img.shields.io/badge/🚀_SaaS_Builder-ACHIEVED-success?style=for-the-badge&labelColor=1a1a2e)
-![React Dev](https://img.shields.io/badge/⚛️_React_Developer-ACHIEVED-61DAFB?style=for-the-badge&labelColor=1a1a2e)
-![Django Dev](https://img.shields.io/badge/🐍_Django_Developer-ACHIEVED-092E20?style=for-the-badge&labelColor=1a1a2e)
-![DSA Learner](https://img.shields.io/badge/🧠_DSA_Learner-IN_PROGRESS-orange?style=for-the-badge&labelColor=1a1a2e)
-![Open Source](https://img.shields.io/badge/🤝_Open_Source-ENTHUSIAST-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║              🔥 CURRENTLY LEVELING UP IN                 ║
-╠══════════════════════════════════════════════════════════╣
-║  ⚛️  Advanced React Patterns & Performance               ║
-║  🐍  Advanced Django (Celery, Channels, Caching)         ║
-║  🗄️  PostgreSQL Optimization & Indexing                  ║
-║  🏗️  System Design & Architecture                        ║
-║  🧠  Data Structures & Algorithms (Daily Practice)       ║
-╚══════════════════════════════════════════════════════════╝
-```
+> 💡 _Update the LinkedIn, Portfolio, and Email links above with your actual URLs._
 
 </div>
 
 ---
 
-## 🗺️ Career Roadmap
+<!-- ====================================================== -->
+<!--                      FOOTER                            -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-| Stage | Status | Description |
-|-------|--------|-------------|
-| 🎨 **Frontend Development** | ✅ Achieved | HTML, CSS, JS, React, Tailwind |
-| ⚙️ **Backend Development** | ✅ Achieved | Python, Django, REST APIs |
-| 🗄️ **Database** | ✅ Achieved | SQL, PostgreSQL |
-| 🌐 **Full Stack** | ✅ Achieved | End-to-end application development |
-| 🏗️ **System Design** | 🔄 In Progress | Scalable architecture patterns |
-| ☁️ **Cloud & DevOps** | 🔄 In Progress | AWS, Docker, CI/CD pipelines |
+### 💜 Thanks for visiting my profile!
+#### ✨ Let's build something amazing together. ✨
 
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-raomuzamil480-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raomuzamil480)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rao-muzamil-52a733281/))
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raomuzamil480@gmail.com)
-
-</div>
-
----
-
-<!-- FOOTER WAVE -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20🚀&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=140&section=footer" alt="footer" />
 
 </div>
